@@ -1,0 +1,13 @@
+body{
+  background-color: #a6b0a5;
+}
+
+.board button{
+  height:50px;
+  width: 50px;
+  border: 1px solid black;
+  border-radius: 50%;
+  background-color: gray;
+  margin:2px;
+
+}
